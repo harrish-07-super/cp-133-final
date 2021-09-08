@@ -1,0 +1,25 @@
+body{
+    background-position:center;
+    background-image: linear-gradient(to left top, #db1b1b, #efff15, #0fff23, #00ffff, #0400ff);
+}
+
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+canvas{
+    border: red solid 2px;
+    box-shadow: 5px 5px 5px blue;
+    border-radius: 10px;
+}
+
+.bed,.book,.computer{
+font-size: 25px;
+color: #0fff23;
+background: #db1b1b;
+}
+
